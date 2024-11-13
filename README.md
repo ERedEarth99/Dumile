@@ -1,0 +1,1 @@
+Its a app that is based on Word of the Day cards and it allow you to input a synonym and you can get an alternative. Its like Grammarly but main focus is synonym. Named after my persoanl rapper MF DOOM real name, "Dumile" (Doom-uh-lay). 
